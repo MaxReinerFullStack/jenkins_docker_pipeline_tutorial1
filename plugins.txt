@@ -69,4 +69,3 @@ mapdb-api
 subversion
 ssh-slaves
 email-ext
-cobertura
