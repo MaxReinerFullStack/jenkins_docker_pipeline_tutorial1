@@ -6,7 +6,7 @@
 jenkins_port=8080
 sonar_port=9001
 
-docker pull jenkins:2.60.1
+docker pull jenkins:2.60.3
 docker pull sonarqube:6.3.1
 
 if [ ! -d downloads ]; then
@@ -21,8 +21,8 @@ docker stop mysonar myjenkins
 docker build -t myjenkins .
 
 docker run  -p ${sonar_port}:9000 --rm --name mysonar sonarqube:6.3.1 &
-
-IP=$(ifconfig en0 | awk '/ *inet /{print $2}')
+## I've changed this according to my needs
+IP=127.0.0.1
 
 echo "Host ip: ${IP}"
 
