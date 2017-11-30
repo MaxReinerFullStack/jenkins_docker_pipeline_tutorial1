@@ -4,15 +4,14 @@
     <div class="block two first">
             <h3>How to upload the downloaded Plugin from you download folder</h3>
             <div class="wrap">
-  	         <img src="https://raw.githubusercontent.com/MaxReinerFullStack/jenkins_docker_pipeline_tutorial1/master/Documentation/VirtualBox_Debian for PI_30_11_2017_00_49_02.png" style="max-width:100%;" />
+  	         <img src="https://raw.githubusercontent.com/MaxReinerFullStack/jenkins_docker_pipeline_tutorial1/master/documentation/VirtualBox_Debian%20for%20PI_30_11_2017_00_49_02.png" style="max-width:100%;" />
              </div>
 	    </div>
       <div class="block two first">
             <h3>Plugin uploaded</h3>
             <div class="wrap">
-            <img src="https://raw.githubusercontent.com/MaxReinerFullStack/jenkins_docker_pipeline_tutorial1/master/Documentation/VirtualBox_Debian for PI_30_11_2017_00_53_54.png" style="max-width:100%;" />
+            <img src="https://raw.githubusercontent.com/MaxReinerFullStack/jenkins_docker_pipeline_tutorial1/master/documentation/VirtualBox_Debian%20for%20PI_30_11_2017_00_53_54.png" style="max-width:100%;" />
        </div>
      </div>
  </div>
 	{:/}
- 
