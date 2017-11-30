@@ -1,6 +1,6 @@
 FROM jenkins:2.60.3
 
-MAINTAINER Kayan Azimov
+MAINTAINER Max Reiner
 
 ENV JAVA_OPTS="-Djenkins.install.runSetupWizard=false"
 
