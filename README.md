@@ -1,6 +1,6 @@
 {::nomarkdown}
     <div class="container">
-    1. You will have to download/clone the fixed Cobertura plugin manually from my github repository: <a href="https://github.com/MaxReinerFullStack/cobertura-plugin/blob/mybuild/target/cobertura.hpi?raw=true">https://github.com/MaxReinerFullStack/cobertura-plugin/blob/master/target/cobertura.hpi?raw=true</a>
+    1. You will have to download/clone the fixed Cobertura plugin manually from my github repository: <a href="https://github.com/MaxReinerFullStack/cobertura-plugin/blob/mybuild/target/cobertura.hpi?raw=true">https://github.com/MaxReinerFullStack/cobertura-plugin/blob/mybuild/target/cobertura.hpi?raw=true</a>
     2. If downloaded, unzip contents in a directory. In your Jenkins installation, follow these steps:
     <div class="block two first">
             <h3>For upload, select .hpi file from target directory</h3>
