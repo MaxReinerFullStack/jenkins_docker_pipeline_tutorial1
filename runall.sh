@@ -35,3 +35,12 @@ docker run -p ${jenkins_port}:8080  -v `pwd`/downloads:/var/jenkins_home/downloa
     -v `pwd`/m2deps:/var/jenkins_home/.m2/repository/ --rm --name myjenkins \
     -e SONARQUBE_HOST=http://${IP}:${sonar_port} \
     myjenkins:latest
+
+# create a container network bridge
+docker network create -d bridge --subnet 0.0.0.0/16 mynetwork
+
+docker network connect mynetwork myjenkins
+docker network connect mynetwork mysonar
+
+# show valid ip addresses
+docker network inspect mynetwork
