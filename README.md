@@ -15,10 +15,10 @@
        </div>
        <div class="block two first">
              <h3>To access the sonarqube server in its docker container, I had to setup a container network with a bridge with docker first.</h3>
-             To solve this issue, I had to follow these links: https://stackoverflow.com/questions/18460016/connect-from-one-docker-container-to-another,
+             To solve this issue, I had to follow instructions from these links: https://stackoverflow.com/questions/18460016/connect-from-one-docker-container-to-another,
              https://docs.docker.com/engine/userguide/networking/work-with-networks/#basic-container-networking-example
 
-
+          </div>
      </div>
  </div>
 	{:/}
