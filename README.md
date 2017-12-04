@@ -14,11 +14,10 @@
             <img src="https://raw.githubusercontent.com/MaxReinerFullStack/jenkins_docker_pipeline_tutorial1/master/documentation/VirtualBox_Debian%20for%20PI_30_11_2017_00_53_54_1.png" style="max-width:100%;" />
        </div>
        <div class="block two first">
-             <h3>To access the sonarqube server in its docker container, I had to setup a container network with a bridge with docker first.</h3>
+             <h3>To access the sonarqube server within its docker container, I had to setup a container network with a bridge with docker first.</h3>
              To solve this issue, I had to follow instructions from these links: https://stackoverflow.com/questions/18460016/connect-from-one-docker-container-to-another,
              https://docs.docker.com/engine/userguide/networking/work-with-networks/#basic-container-networking-example
 
-          </div>
-     </div>
+ 
  </div>
 	{:/}
