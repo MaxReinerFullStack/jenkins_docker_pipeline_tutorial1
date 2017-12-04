@@ -1,6 +1,6 @@
 {::nomarkdown}
     <div class="container">
-    <h3>To access the sonarqube server within its docker container, I had to setup a container network with a bridge with docker first.</h3>
+    <h3>To access the sonarqube server within its docker container, I had first to setup a container network with a bridge with docker.</h3>
     To solve this issue, I had to follow instructions from these links:
     <div class="block two first">
     <ul>
