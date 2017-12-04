@@ -14,6 +14,12 @@
             <img src="https://raw.githubusercontent.com/MaxReinerFullStack/jenkins_docker_pipeline_tutorial1/master/documentation/VirtualBox_Debian%20for%20PI_30_11_2017_00_53_54_1.png" style="max-width:100%;" />
        </div>
        <div class="block two first">
+             <h3>Pipeline successfully finished:</h3>
+             <div class="wrap">
+             <img src="https://raw.githubusercontent.com/MaxReinerFullStack/jenkins_docker_pipeline_tutorial1/master/documentation/VirtualBox_Debian%20for%20Android%20Development_04_12_2017_15_41_59.png" style="max-width:100%;" />
+        </div>
+
+       <div class="block two first">
              <h3>To access the sonarqube server within its docker container, I had to setup a container network with a bridge with docker first.</h3>
              To solve this issue, I had to follow instructions from these links:
 
