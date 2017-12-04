@@ -8,7 +8,7 @@
     </ul>
     </div>
     <div class="block two first">
-             <h3>After following these instructions, the pipeline will be successfully finished.</h3>
+             <h3>After following these instructions, the pipeline will have successfully completed.</h3>
              <div class="wrap">
              <img src="https://raw.githubusercontent.com/MaxReinerFullStack/jenkins_docker_pipeline_tutorial1/master/documentation/VirtualBox_Debian%20for%20Android%20Development_04_12_2017_15_41_59.png" style="max-width:100%;" />
         </div>
